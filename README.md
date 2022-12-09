@@ -8,7 +8,7 @@ Author.
 Mercy Chemwotie
 
 Setup.
-git clone https://github.com/mchemwotie/Delani-Studio.git
+git clone [https://github.com/mchemwotie/Delani-Studio.git]
 
 extract the file.
 
