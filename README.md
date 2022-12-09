@@ -16,18 +16,18 @@ cd to the Delani-studio directory.
 
 Open the index.html on your favorite browser.
 
-Behavior Driven Development
+# Behavior Driven Development
 The 'What we do’ icons when clicked should toggle between the respective description of each icon. 
 Under Portfolio sections, on hover a white box appears with then name of the project inside.
 Once you send a message, a pop up will appear indicating message received and a thank you for contacting us
 
-Technologies used.
+# Technologies used.
 Html5
 Css
 Bootstrap
 Javascript
 Jquery
 
-Known Bugs
+# Known Bugs
 No bugs encountered
 
