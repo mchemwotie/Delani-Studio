@@ -2,7 +2,7 @@
 DELANI STUDIO
 
 # Description.
-A webpage for Delani studio which gives a detailed account about what they are, the services they offer, projects done so far and a contact page that the user can reach them to.
+This is a landing page for a fictional studio- Delani studio. It gives a detailed account about what they are, the services they offer, projects done so far and a contact page that the user can reach them to.
 
 # Author.
 Mercy Chemwotie
