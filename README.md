@@ -32,6 +32,9 @@ Javascript
 
 Jquery
 
+# Contact
+
+
 # Known Bugs
 No bugs encountered
 
