@@ -33,7 +33,7 @@ Javascript
 Jquery
 
 # Contact
-For any contributions and collaboration, reach me via email  
+For any contributions and collaboration, reach me via email mchemwotie81@gmail.com
 
 # Known Bugs
 No bugs encountered
