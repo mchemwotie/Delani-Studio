@@ -33,7 +33,7 @@ Javascript
 Jquery
 
 # Contact
-For any contributions and collaboration, reach me at 
+For any contributions and collaboration, reach me via email  
 
 # Known Bugs
 No bugs encountered
